@@ -1,4 +1,4 @@
-# csv to mysql
+# atal technical test
 
 mirgator - python
 
@@ -116,7 +116,7 @@ yarn commit
     "service": {
         "provider": "",
         "action": "",
-        "password": "2020myworldbox2020",
+        "password": "",
         "crypto": {
             "name": "aria-128-cfb8",
             "type": "encrypt"
